@@ -1,5 +1,5 @@
 # CUSTOMER-RELATIONSHIP-MANAGEMENT-SYSTEM
-JAVA/ SPRING MVC/ HIBERNATE/ MYSQL/ HTML
+JAVA/ SPRING/ HIBERNATE/ REST/ MYSQL/ HTML
 <h3>Features and interfaces</h3></p>
 <br>(1)	Home page</br>
 <br><img src="pic/1.png"></br>
