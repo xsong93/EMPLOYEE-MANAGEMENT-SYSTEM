@@ -7,5 +7,3 @@ JAVA/ SPRING MVC/ HIBERNATE/ MYSQL/ HTML
 <br><img src="pic/3.png"></br>
 <br>(3)	Profile Update</br>
 <br><img src="pic/2.png"></br>
-<br>(4)	Search function</br>
-<br><img src="pic/4.png"></br>
